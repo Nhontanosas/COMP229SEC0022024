@@ -1,3 +1,5 @@
+import React from 'react';
+//Neil H 301373003 education.jsx -- Changed to Service page
 export default function Service(){
     return (
         <>
