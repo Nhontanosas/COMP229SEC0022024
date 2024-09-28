@@ -4,13 +4,14 @@ import React from 'react';
 export default function Layout() {
   return (
     <>
-      <h1>My Portfolio</h1>
-      <nav>
-        <Link to="/">Home</Link> | <Link to="/about">About</Link> | <Link to="/education">Education</Link>| <Link to="/project">Project</Link>| <Link to="/contact">Contact</Link>
-      </nav>
-      <hr />
       
+      <h1><img src='/img/nLogo.png' width={100}></img>My Portfolio</h1>
     
+      <nav>
+        <Link to="/">Home</Link> | <Link to="/about">About</Link> | <Link to="/service">Service</Link>| <Link to="/project">Project</Link>| <Link to="/contact">Contact</Link>
+      </nav>
+
+
       
     </>
   );
