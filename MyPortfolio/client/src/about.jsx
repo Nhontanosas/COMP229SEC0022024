@@ -1,5 +1,5 @@
 import React from 'react';
-
+//Neil H 301373003 about.jsx
 const About = () => {
     return (
         <div className="about-container"> 
